@@ -5,7 +5,7 @@ import SEO from "../components/seo"
 const Images = () => (
   <Layout>
     <SEO title="Page two" />
-<h1>Images</h1>
+    <h1>Images</h1>
   </Layout>
 )
 
