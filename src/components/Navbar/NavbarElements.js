@@ -42,5 +42,5 @@ export const NavLogo = styled(Link)`
 `
 
 export const NavIcon = styled(DiScala)`
-  margin: 0 0.5rem 0 2rem;
+  margin: 0 0.5rem 0 1.8rem;
 `
