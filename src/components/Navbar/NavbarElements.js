@@ -27,7 +27,7 @@ export const NavbarContainer = styled.div`
   height: 80px;
   z-index: 1: 
   width: 100%;
-  max-width: 1000px;
+  max-width: 1000px; 
 `
  
 
